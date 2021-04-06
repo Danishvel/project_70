@@ -1,0 +1,40 @@
+.MY_nav{
+    position: sticky;
+    top: 0;
+    z-index: 99999;
+    color: black;
+    background-color: lightblue;
+}
+Body{
+    text-align: center;
+}
+.contact us{
+    text-align: left;
+}
+.Campus_main p{
+    font-size: 30px;
+    color: black;
+}
+.Campus_main img{
+    height: 312px;
+    width: 869px; 
+}
+.Achievements-main p{
+    font-size: 30px;
+    color: black;
+}
+.Achievements-main img{
+    height: 312px;
+    width: 869px; 
+}
+.new_head{
+    font-size: 20px;
+    padding: 6px 22px;
+    border-radius: 10px;
+    width: 100%;
+    margin-bottom: 15px;
+    display: inline-block;
+}
+.new_head i{
+    float: right;
+}
